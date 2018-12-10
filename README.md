@@ -34,4 +34,4 @@ $ python2 fbi.py
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
-# Original Author is </xHak9x>
+# Original Author is xHak9x
